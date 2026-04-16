@@ -40,7 +40,7 @@ Bem-vindo ao projeto **Calculadora Web**! Esta é uma ferramenta poderosa e intu
 Precisa fazer uma conta rápida? Acesse a calculadora agora mesmo através do link abaixo:
 
 <div align="left">
-  <a href="https://github.com/Domisnnet/Calculator-Web-Essentials" target="_blank">
+  <a href="https://domisnnet.github.io/Calculator-Web-Essentials/" target="_blank">
     <img alt="Botão Acessar" src="src/img/botão.webp" height="70" width="70" />
   </a>
 </div>
@@ -132,7 +132,7 @@ Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
 
 Analise os arquivos HTML, CSS e a "mente" do projeto em JS:
 
-[![Código](https://img.shields.io/badge/Código%20Fonte-Acessar-795548?style=for-the-badge&logo=github)](https://github.com/Domisnnet/calculadora/tree/main)
+[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet/Calculator--Web--Essentials-blue?style=for-the-badge&logo=github)](https://domisnnet.github.io/Calculator-Web-Essentials/)
 
 ---
 
