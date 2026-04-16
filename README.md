@@ -1,8 +1,12 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Domisnnet/Calculator-Web-Essentials?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Domisnnet/Calculator-Web-Essentials?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Domisnnet/Calculator-Web-Essentials?style=for-the-badge)
+
 <h2 id="sobre-o-projeto">1. 🧮 Calculadora Web Dinâmica 🚀</h2>
 
 ![Status do Deploy](https://img.shields.io/badge/Status-Online-brightgreen)
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML%20%7C%20CSS%20%7C%20JS-blueviolet)
-[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/calculadora/blob/main/LICENSE)
+[![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Calculator-Web-Essentials/blob/main/LICENSE)
 
 ![Calculadora Mockup](src/img/iMac-24-1120x630.png)
 
@@ -140,7 +144,7 @@ A Calculadora Web é o resultado de estudos práticos de interface e lógica:
 
 <h2 id="licenca">11. 📄 Licença</h2>
 
-Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/calculadora/blob/main/LICENSE)
+Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Domisnnet/Calculator-Web-Essentials/blob/main/LICENSE)
 
 ---
 
