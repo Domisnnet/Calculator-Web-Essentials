@@ -162,7 +162,6 @@ Este projeto está licenciado sob a [![Licença MIT](https://img.shields.io/badg
 
 <h2 id="perfil-do-github">12. 👨‍💻 Perfil do GitHub</h2>
 
-<a href="https://github.com/Domisnnet"> <img src="src/img/DomisDev.png" width="120" alt="Acessar perfil GitHub"> </a>
-
----
-Feito com ❤️ por **DomisDev**
+<a href="https://github.com/Domisnnet"> 
+  <img src="src/img/DomisDev.png" width="120" alt="Acessar perfil GitHub"> 
+</a>
