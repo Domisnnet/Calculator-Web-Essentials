@@ -19,7 +19,7 @@ Bem-vindo ao projeto **Calculadora Web**! Esta é uma ferramenta poderosa e intu
 | 🧮 O Projeto | 🛠️ Técnico | 🤝 Comunidade |
 | :---: | :---: | :---: |
 | [![1. Sobre](https://img.shields.io/badge/1%20-%20Sobre-4CAF50)](#sobre-o-projeto) | [![5. Destaques](https://img.shields.io/badge/5%20-%20Destaques-607D8B)](#destaques-tecnicos) | [![9. Código](https://img.shields.io/badge/9%20-%20Código-795548)](#codigo-fonte) |
-| [![2. Techs](https://img.shields.io/badge/2%20-%20Techs-2196F3)](#tecnologias-utilizadas) | [![6. Instalação](https://img.shields.io/badge/6%20-%20Instalacao-009688)](#codigo-fonte) | [![10. Créditos](https://img.shields.io/badge/10%20-%20Créditos-607D8B)](#créditos) |
+| [![2. Techs](https://img.shields.io/badge/2%20-%20Techs-2196F3)](#tecnologias-utilizadas) | [![6. Instalação](https://img.shields.io/badge/6%20-%20Instalacao-009688)](#instalacao) | [![10. Créditos](https://img.shields.io/badge/10%20-%20Créditos-607D8B)](#créditos) |
 | [![3. Acessar](https://img.shields.io/badge/3%20-%20Acessar-FF9800)](#como-acessar) | [![7. Contribuir](https://img.shields.io/badge/7%20-%20Contribuir-3F51B5)](#como-contribuir) | [![11. Licença](https://img.shields.io/badge/11%20-%20Licença-E91E63)](#licenca) |
 | [![4. Funções](https://img.shields.io/badge/4%20-%20Funções-9C27B0)](#funcionalidades) | [![8. FAQ](https://img.shields.io/badge/8%20-%20FAQ-FFC107)](#faq) | [![12. Perfil](https://img.shields.io/badge/12%20-%20Perfil-212121)](#perfil-do-github) |
 
@@ -75,13 +75,13 @@ Desenvolvimento de uma função de atualização de tela que gerencia a concaten
 
 ---
 
-<h2 id="codigo-fonte">6. 🚀 Instalação e Configuração Local</h2>
+<h2 id="instalacao">6. 🚀 Instalação e Configuração Local</h2>
 
 Gostou da lógica do jogo? Sinta-se à vontade para explorar o código ou clonar o repositório:
 
 ```bash
 # Clonar o repositório
-git clone [https://github.com/Domisnnet/Calculator-Web-Essentials.git](https://github.com/Domisnnet/Calculator-Web-Essentials.git)
+git clone https://github.com/Domisnnet/Calculator-Web-Essentials.git(https://github.com/Domisnnet/Calculator-Web-Essentials.git)
 
 # Acessar a pasta
 cd Calculator-Web-Essentials
