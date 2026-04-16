@@ -40,7 +40,7 @@ Bem-vindo ao projeto **Calculadora Web**! Esta é uma ferramenta poderosa e intu
 Precisa fazer uma conta rápida? Acesse a calculadora agora mesmo através do link abaixo:
 
 <div align="left">
-  <a href="https://domisnnet.github.io/calculadora/" target="_blank">
+  <a href="https://github.com/Domisnnet/Calculator-Web-Essentials" target="_blank">
     <img alt="Botão Acessar" src="src/img/botão.webp" height="70" width="70" />
   </a>
 </div>
@@ -75,11 +75,17 @@ Desenvolvimento de uma função de atualização de tela que gerencia a concaten
 
 ---
 
-<h2 id="codigo-fonte">6. 📂 Repositório</h2>
+<h2 id="codigo-fonte">6. 🚀 Instalação e Configuração Local</h2>
 
-Explore o esqueleto do projeto e aprenda como a lógica foi construída:
+Gostou da lógica do jogo? Sinta-se à vontade para explorar o código ou clonar o repositório:
 
-[![Repositório](https://img.shields.io/badge/Repositório-Domisnnet%2Fcalculadora-1DB954?style=for-the-badge&logo=github)](https://github.com/Domisnnet/calculadora)
+```bash
+# Clonar o repositório
+git clone [https://github.com/Domisnnet/Calculator-Web-Essentials.git](https://github.com/Domisnnet/Calculator-Web-Essentials.git)
+
+# Acessar a pasta
+cd Calculator-Web-Essentials
+```
 
 ---
 
@@ -89,11 +95,17 @@ Siga os passos abaixo para fortalecer este projeto:
 
 | Fase | Ação | Link / Comando |
 | :---: | :--- | :--- |
-| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/calculadora/fork) |
-| **02** | **Branch** | `git checkout -b feature/NovaFuncao` |
-| **03** | **Commit** | `git commit -m 'feat: adição de raiz quadrada'` |
-| **04** | **Push** | `git push origin feature/NovaFuncao` |
-| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/calculadora/compare) |
+| **01** | **Fork** | [![Fork](https://img.shields.io/badge/-Fazer%20Fork-blue?style=flat-square&logo=github)](https://github.com/Domisnnet/Calculator-Web-Essentials/fork) |
+| **02** | **Branch** | `git checkout -b feature/MinhaMelhoria` |
+| **03** | **Commit** | `git commit -m 'feat: nova seção de álbuns'` |
+| **04** | **Push** | `git push origin feature/MinhaMelhoria` |
+| **05** | **PR** | [![Abrir PR](https://img.shields.io/badge/-Abrir%20PR-green?style=flat-square&logo=git)](https://github.com/Domisnnet/Calculator-Web-Essentials/compare) |
+
+### 🐛 Encontrou um problema?
+Se algo não estiver funcionando como esperado, não hesite em abrir um chamado:
+
+[![Issues Abertas](https://img.shields.io/github/issues/Domisnnet/Kill-Buzz?style=flat-square&color=red&logo=github)](https://github.com/Domisnnet/Calculator-Web-Essentials/issues)
+[![Report Bug](https://img.shields.io/badge/Reportar-Erro-critical?style=flat-square&logo=github)](https://github.com/Domisnnet/Calculator-Web-Essentials/issues/new)
 
 ---
 
